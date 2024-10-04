@@ -1,7 +1,2 @@
-Hi everyone,
-
-I'm IF59. I'm interested in novels, films, and learning. 
-My big dream is to build a successful software that can translate my favorite novels smoothly. 
-That’s why I decided to study AI at HCMUS. I work hard every day to move closer to my goal.
-
-"That's right, .I love the fact that I work hard." 
+MAZE_GAME: Tam and Gia Huy
+Tam and Gia Huy is the title of our project, a Python-based game. This folder allows you to visually explore and reference the game. We belong to group 11, class 23TNT1 at Ho Chi Minh City University of Science, specializing in Advanced Programming for Artificial Intelligence. Our team members are Nguyen Trong Hoa, Phan Huynh Chau Thinh, Tran Chi Nguyen, Kpuih Thuing, and Nguyen Viet Hung. Under the guidance of the instructors: Dr. Nguyen Tien Huy, Dr. Le Thanh Tung and Mr. Nguyen Tran Duy Minh. We are delighted to share this with you. Best regards.
